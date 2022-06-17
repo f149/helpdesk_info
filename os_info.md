@@ -4,21 +4,19 @@
 <p align="center">GET OS INFO</p>
 <p align="center">######################################################</p>
 <br/><br/>
-<br/><br/>
-<br/><br/>
 <p align="center">________________________________________________________________________________________</p>
 <br/><br/>
-<br/><br/>
 
 
-##### Windows
+### Windows
  - Жмем комбинацио Win + R
  - Вводим команду msinfo32 и жмем Enter
-> ![Screenshot](img/winr_msinfo.png)
+
+![Screenshot](img/winr_msinfo.png)
 
  - Делаем скрины пунктов меню "Сведения о системе", "Дисплей", "Диски"
-> ![Screenshot](img/msinfo32.png)
-![alt text](img/msinfo32.png?raw=true)
+
+![Screenshot](img/msinfo32.png)
 
 ##### Ubuntu
 > - Заходим в меню и выбираем пункт "Настройки"
