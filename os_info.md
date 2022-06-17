@@ -13,10 +13,13 @@
 
 ##### Windows
  - Жмем комбинацио Win + R
-> ![Screenshot](img/winr_msinfo.png)
  - Вводим команду msinfo32 и жмем Enter
+
+ [Screenshot](img/winr_msinfo.png)
+
  - Делаем скрины пунктов меню "Сведения о системе", "Дисплей", "Диски"
 
+> [Screenshot](img/winr_msinfo.png)
 
 
 ##### Ubuntu
