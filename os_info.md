@@ -15,8 +15,6 @@
 
 ### Ubuntu
     - Заходим в меню и выбираем пункт "Настройки"
-![Screenshot](img/linux_settings.png)
-
     - Переходим в самый низ, пункт "О системе"
 ![Screenshot](img/about_os.png)
 
