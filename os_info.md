@@ -18,7 +18,10 @@
 
 ![Screenshot](img/msinfo32.png)
 
-##### Ubuntu
+
+
+<br/><br/>
+### Ubuntu
     - Заходим в меню и выбираем пункт "Настройки"
 ![Screenshot](img/linux_settings.png)
 
@@ -26,6 +29,8 @@
 ![Screenshot](img/about_os.png)
 
 
-##### MAC OS
+
+<br/><br/>
+### MAC OS
     - В верхнем, левом углу идем в меню Apple () далее выбираем пункт "Об этом МАС"
 
