@@ -9,8 +9,8 @@
 
 
 ### Windows
-> - Жмем комбинацио Win + R
-> - Вводим команду msinfo32 и жмем Enter
+> Жмем комбинацио Win + R
+> Вводим команду msinfo32 и жмем Enter
 
 ![Screenshot](img/winr_msinfo.png)
 
