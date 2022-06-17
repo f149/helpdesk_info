@@ -15,7 +15,7 @@
  - Жмем комбинацио Win + R
  - Вводим команду msinfo32 и жмем Enter
 
- [Screenshot](img/winr_msinfo.png)
+[Screenshot](img/winr_msinfo.png)
 
  - Делаем скрины пунктов меню "Сведения о системе", "Дисплей", "Диски"
 
