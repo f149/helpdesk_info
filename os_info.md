@@ -7,7 +7,14 @@
     - Делаем скрины пунктов меню "Сведения о системе", "Дисплей", "Диски"
 
 ![Screenshot](img/msinfo32.png)
+    
+    - Далее Win+X пункт PowerShell
 
+![Screenshot](img/win+x.png)
+
+    - Вводим команду wmic bios get serialnumber
+  
+![Screenshot](img/win_psh.png)
 
 <br/><br/>
 <p align="center">________________________________________________________________________________________</p>
