@@ -37,4 +37,5 @@
 ### MAC OS
     - В верхнем, левом углу идем в меню Apple далее выбираем пункт "Об этом МАС"
 ![Screenshot](img/macos_info.png)
+![Screenshot](img/about_mac_strg.png)
 
